@@ -1,0 +1,11 @@
+{
+    "name": "date-formatter-js",
+    "version": "1.0.0",
+    "description": "date-formatter-js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "colin",
+    "license": "ISC"
+}
